@@ -2,7 +2,7 @@
 Este repositório consiste em um template pronto para o desenvolvimento de APIs em NODE.JS, utilizando o ORM Prisma. Ele inclui uma série de bibliotecas e ferramentas essenciais para iniciar o desenvolvimento de maneira rápida e eficiente.
 
 ## Bibliotecas e Ferramentas Incluídas
-Express: Framework web para NODE.JS para criar APIs de forma mais simplificada.</br>
+<h4>Express:</h4> Framework web para NODE.JS para criar APIs de forma mais simplificada.</br>
 <h4>prisma/client:</h4> Cliente do Prisma, permitindo a interação com o banco de dados.</br>
 <h4>@types/express -D:</h4> Tipos do Express para TypeScript.</br>
 <h4>@types/node -D:</h4> Tipos do Node para TypeScript.</br>
