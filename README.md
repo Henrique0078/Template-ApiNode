@@ -40,5 +40,3 @@ Recomendo a instalação das seguintes extensões no VS Code para melhorar o amb
 <hr>
 
 Sinta-se à vontade para contribuir, reportar problemas ou fazer sugestões para a melhoria deste template. Seja bem-vindo(a)!
-
-Substitua <url_do_repositorio> e nome_do_repositorio com os dados reais do seu repositório. Este documento serve como um modelo para documentação e pode ser adaptado de acordo com as necessidades específicas do seu projeto.
