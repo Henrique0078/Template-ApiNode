@@ -28,7 +28,17 @@ yarn install
 
 Certifique-se de configurar seu banco de dados conforme necessário para começar a utilizar o Prisma.
 
-Sinta-se à vontade para contribuir, reportar problemas ou fazer sugestões para a melhoria deste template. Seja bem-vindo(a)!
+## Extensões recomendadas para Visual Studio Code
+Recomendo a instalação das seguintes extensões no VS Code para melhorar o ambiente de desenvolvimento:
+
+- **ESLint**: Auxilia no linting do código, ajudando a manter um padrão de qualidade e identificar possíveis erros ou problemas de formatação.
+- **JavaScript and TypeScript Nightly**: Fornece suporte avançado para JavaScript e TypeScript no VS Code, incluindo recursos mais recentes e em fase de teste.
+- **Nodejs Snippets**: Oferece snippets (trechos de código) úteis para o desenvolvimento em Node.js, permitindo uma escrita mais rápida e eficiente.
+- **Prisma**: Proporciona suporte e ferramentas para o Prisma ORM, facilitando o desenvolvimento e a interação com o banco de dados.
+- **Prisma Import**: Essa extensão auxilia na importação de modelos e arquivos do Prisma, ajudando a organizar e gerenciar os recursos do Prisma de forma mais eficiente.
+
 <hr>
+
+Sinta-se à vontade para contribuir, reportar problemas ou fazer sugestões para a melhoria deste template. Seja bem-vindo(a)!
 
 Substitua <url_do_repositorio> e nome_do_repositorio com os dados reais do seu repositório. Este documento serve como um modelo para documentação e pode ser adaptado de acordo com as necessidades específicas do seu projeto.
