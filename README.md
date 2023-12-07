@@ -1,5 +1,5 @@
 # Template para Desenvolvimento de API em NODE.JS com Prisma ORM
-Este repositório consiste em um template pronto para o desenvolvimento de APIs em NODE.JS, utilizando o ORM Prisma. Ele inclui uma série de bibliotecas e ferramentas essenciais para iniciar o desenvolvimento de maneira rápida e eficiente.
+Este repositório consiste em um template pronto para o desenvolvimento de APIs em NODE.JS e Typescript, utilizando o ORM Prisma. Ele inclui uma série de bibliotecas e ferramentas essenciais para iniciar o desenvolvimento de maneira rápida e eficiente.
 
 ## Bibliotecas e Ferramentas Incluídas
 - **Express:** Framework web para NODE.JS para criar APIs de forma mais simplificada.</br>
@@ -18,15 +18,14 @@ Este repositório consiste em um template pronto para o desenvolvimento de APIs 
 - **Indentação com Tabs:** O código segue uma convenção de indentação usando tabs.</br>
 
 ## Como Utilizar
-Para utilizar este template, basta clonar o repositório e instalar as dependências utilizando o gerenciador de pacotes Yarn. Após isso, você pode começar a desenvolver sua API com Prisma ORM e as ferramentas já configuradas.
+Para utilizar este template, basta clonar o repositório e instalar as dependências utilizando o gerenciador de pacotes NPM, para isto, basta precionar "ctrl + j" e no terminal digitar o comando disponivel abaixo. Após isso, você pode começar a desenvolver sua API com Prisma ORM e as ferramentas já configuradas.
 
+Exemplo de como instalar as dependências pré setadas no template:
 ```
-git clone <url_do_repositorio>
-cd nome_do_repositorio
-yarn install
+npm i
 ```
 
-Certifique-se de configurar seu banco de dados conforme necessário para começar a utilizar o Prisma.
+Certifique-se de configurar seu banco de dados no arquivo .env e posteriormente adicionalo no gitignore para dar segurança ao seu projeto. Conforme necessário para começar a utilizar o Prisma.
 
 ## Extensões recomendadas para Visual Studio Code
 Recomendo a instalação das seguintes extensões no VS Code para melhorar o ambiente de desenvolvimento:
