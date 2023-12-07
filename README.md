@@ -44,7 +44,7 @@ Para testar se tudo foi instalado corretamente e está funcionando, basta digita
 npm run dev
 ```
 
-E então ao acessar a url local com a porta 8000 que foi definida em src\server.ts a mensagem "Hello World!" deve aparecer no seu navegador.
+E então ao acessar a url local com a porta 8000 ``http://localhost:8000`` que foi definida em src\server.ts a mensagem "Hello World!" deve aparecer no seu navegador.
 <hr>
 
 Sinta-se à vontade para contribuir, reportar problemas ou fazer sugestões para a melhoria deste template. Seja bem-vindo(a)!
