@@ -36,6 +36,15 @@ Recomendo a instalação das seguintes extensões no VS Code para melhorar o amb
 - **Prisma**: Proporciona suporte e ferramentas para o Prisma ORM, facilitando o desenvolvimento e a interação com o banco de dados.
 - **Prisma Import**: Essa extensão auxilia na importação de modelos e arquivos do Prisma, ajudando a organizar e gerenciar os recursos do Prisma de forma mais eficiente.
 
+
+## Testando o template
+Para testar se tudo foi instalado corretamente e está funcionando, basta digitar o seguinte codigo no terminal:
+
+```
+npm run dev
+```
+
+E então ao acessar a url local com a porta 8000 que foi definida em src\server.ts a mensagem "Hello World!" deve aparecer no seu navegador.
 <hr>
 
 Sinta-se à vontade para contribuir, reportar problemas ou fazer sugestões para a melhoria deste template. Seja bem-vindo(a)!
