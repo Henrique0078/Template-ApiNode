@@ -1,4 +1,4 @@
-import Express from "express";
+import Express, { NextFunction, Request, Response } from "express";
 
 const app = Express();
 app.use(Express.json());
